@@ -1,0 +1,26 @@
+\left[\frac{\sqrt{x.xx - 0.xxx}}{x.xx} + \frac{(0.xxx)}{x.xx}\right]^{2}
+\frac{0.xxx + 1 / (0.xxx)}{1 / (\pi) + x.xx} + \frac{1}{(0.xxx)}
+\sqrt{\frac{(\pi)(x.xx)}}{xxx + xxx}} + 0.0xxx
+\frac{1}{x.xx + x.xx} + \frac{1}{x.xx - xx.x} + \frac{1}{(x.xx)}
+\left[\frac{(0.xxx)(0.xxx)}{-x.xx} + 0.0xxx\right]^2 + \sqrt{{x.xx \times 10^{-10}}}
+\left[\frac{\sqrt{0.xxx - 0.xxx}}{x.xx} + \frac{(0.xxx)}{x.xx}\right]^2
+\frac{-0.xxx + 1 / (-x.xx)}{1 / (0.xxx) + \pi} + \frac{1}{(-xx.x)}
+\sqrt{\frac{(x.xx)(x.xx)}{xxx + xxx}} + 0.xxx
+\frac{1}{-x.xx + xx.x} + \frac{1}{xx.x - xx.x} + \frac{1}{x.xx}
+\left[\frac{(0.xxx)(0.xxx)}{x.xx} + 0.0xxx\right]^2 + \sqrt{{x.xx \times 10^{-4}}}
+\left[\frac{\sqrt{x.xx - x.xx}}{-x.xx} + \frac{(-0.xxx)}{x.xx}\right]^2
+\frac{0.xxx + 1 / (x.xx)}{1 / (0.xxx) + x.xx} + \frac{1}{xx.x}
+\left[\frac{\sqrt{x.xx - x.xx}}{x.xx} + \frac{(0.xxx)}{x.xx}\right]^2
+\frac{0.0xxx + 1 / (x.xx)}{1 / (0.xxx) + x.xx} + \frac{1}{(xx.x)}
+\sqrt{\frac{(x.xx)(x.xx)}{xxx + xxx}} + 0.xxx
+\frac{1}{-x.xx + xx.x} + \frac{1}{x.xx - x.xx} + \frac{1}{(xx.x)}
+\left[\frac{(0.xxx)(0.xxx)}{-x.xx} + 0.00xxx\right]^2 + \sqrt{{x.xx \times 10^{-10}}}
+\left[\frac{\sqrt{0.xxx - 0.0xxx}}{x.xx} + \frac{(0.xxx)}{x.xx}\right]^2
+\frac{x.xx + 1 / (0.xxx)}{1 / (xx.x) + 0.xxx} + \frac{1}{(0.00xxx)}
+\sqrt{\frac{(x.xx)(x.xx)}{xxx + xxx}} + 0.0xxx
+\frac{1}{x.xx + x.xx} + \frac{1}{xx.x - xx.x} + \frac{1}{(x.xx)}
+\left[\frac{(0.xxx)(0.xxx)}{-0.xxx} + 0.0xxx\right]^2 + \sqrt{{x.xx \times 10^{-8}}}
+\left[\frac{\sqrt{x.xx - 0.xxx}}{x.xx} + \frac{(0.xxx)}{x.xx}\right]^2
+\frac{-0.0xxx + 1 / (-x.xx)}{1 / (0.xxx) + x.xx} + \frac{1}{(-xx.x)}
+\left[\frac{\sqrt{x.xx - 0.xxx}}{-x.xx} + \frac{(-0.xxx)}{x.xx}\right]^2
+\frac{-0.0xxx + 1 / (-x.xx)}{1 / (0.xxx) + x.xx} + \frac{1}{(-x.xx)}

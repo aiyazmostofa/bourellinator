@@ -1,0 +1,26 @@
+(xx.x - xx.x + xx.x + x.xx) / (xx.x)
+(xx.x - xx.x - xxx + xx.x) \times (-xx.x)
+(xx.x - xx.x + xxx) \times (xx.x) - xxx00
+(xx.x + xx0 - xx.x) / (-xx.x) + 0.xxx
+\frac{(0.xxx)(-0.xxx)(0.xxx)}{-0.xxx} + 0.xxx
+(-0.xxx - 0.xxx + 0.xxx + 0.xxx) / (0.xxx)
+(-0.xxx - 0.xxx - x.xx + 0.xxx) \times (-0.0xxx)
+(-0.xxx - 0.xxx + 0.xxx) \times (-0.xxx) - 0.xxx
+(-0.xxx - 0.xxx + 0.xxx + 0.xxx) / (0.xxx)
+(-0.xxx - 0.xxx - 0.xxx + 0.0xxx) \times (-0.xxx)
+(-0.0xxx - 0.00xxx + 0.0xxx) \times (-0.xxx) - {x.xx \times 10^{-4}}
+(x.xx + x.xx - 0.xxx) / (-0.xxx) + x.xx
+\frac{(x.xx)(-x.xx)(-x.xx)}{-x.xx} + xx.x
+(\pi - 0.xxx + 0.xxx + 0.xxx) / (-x.xx)
+(x.xx - x.xx - xx.x + 0.xxx) \times (x.xx)
+(x.xx - x.xx + xx.x) \times (x.xx) - xx.x
+(-x.xx + x.xx - x.xx) / (x.xx) + 0.xxx
+(\pi - x.xx - x.xx + x.xx) \times (x.xx)
+(-x.xx - x.xx + x.xx) \times (x.xx) - xxx
+(-x.xx + x.xx - x.xx) / (x.xx) + 0.0xxx
+\frac{(-x.xx)(-x.xx)(x.xx)}{0.xxx} + xx.x
+(-x.xx - 0.xxx + 0.xxx + 0.xxx) / (\pi)
+(0.xxx - 0.xxx - 0.xxx + 0.xxx) \times (x.xx)
+(x.xx - x.xx + x.xx) \times (-x.xx) - xxx
+(\pi + xx.x - x.xx) / (-x.xx) + x.xx
+\frac{(x.xx)(-x.xx)(-x.xx)}{x.xx} + xx.x

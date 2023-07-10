@@ -1,0 +1,26 @@
+\frac{(xx.x + x.xx)(xx.x + xx.x)}{(-x.xx)(0.xxx)(xxx0 - xxx00)}
+\frac{(-x.xx)(x.xx) - (x.xx)(-x.xx) + xx.x}{-xx.x + (-x.xx)(x.xx)}
+\frac{(xxx)(xxx) + (-xxx)(-xxx)}{-x.xx + 0.xxx - (-x.xx)(0.xxx)}
+\frac{(xxx0 + xxx0)}{(0.xxx - x.xx)} + \frac{(-xxx00 + {x.xx \times 10^{5}})}{(x.xx - x.xx)}
+\frac{(-x.xx + x.xx)(x.xx - 0.xxx + x.xx)}{(x.xx)(-x.xx) - xx.x}
+\frac{(0.xxx + 0.xxx)(0.xxx + 0.xxx)}{(-x.xx)(0.xxx)(xxx0 - xxx0)}
+\frac{(-0.0xxx)(0.0xxx) - (0.00xxx)(-0.0xxx) + {x.xx \times 10^{-5}}}{-0.00xxx + (0.0xxx)(-0.0xxx)}
+\frac{(0.xxx)(0.0xxx) + (-0.xxx)(-0.xxx)}{-x.xx + x.xx - (-x.xx)(0.xxx)}
+\frac{(xxx0 + xxx0)}{(0.xxx - x.xx)} + \frac{(-xxx0 + xxx0)}{(x.xx - \pi)}
+\frac{(-0.0xxx + 0.0xxx)(0.0xxx - 0.0xxx + 0.xxx)}{(0.0xxx)(0.0xxx) - {x.xx \times 10^{-4}}}
+\frac{(0.xxx + 0.xxx)(0.xxx + 0.xxx)}{(-x.xx)(0.xxx)(xxx0 - xxx00)}
+\frac{(-x.xx + 0.xxx)(-x.xx - x.xx + x.xx)}{(-x.xx)(\pi)(xx.x)}
+\frac{(-0.xxx + 0.xxx)(-0.xxx + \pi)}{(-x.xx)(0.xxx)(xxx0 - xxx0)}
+\frac{(0.0xxx)(-0.0xxx) - (-0.0xxx)(0.0xxx) + {x.xx \times 10^{-4}}}{{x.xx \times 10^{-4}} + (0.0xxx)(0.0xxx)}
+\frac{(-x.xx)(-x.xx) + (x.xx)(x.xx)}{-x.xx + x.xx - (-x.xx)(0.xxx)}
+\frac{(xxx0 + xxx)}{(0.xxx - 0.xxx)} + \frac{(-xxx00 + xxx00)}{(x.xx - x.xx)}
+\frac{(xx.x + xx.x)(-xxx - xxx + xxx)}{(-xxx)(xxx) - {x.xx \times 10^{5}}}
+\frac{(-xx.x + xx.x)(-xx.x + xxx)}{(-x.xx)(0.xxx)(xxx0 - xxx0)}
+\frac{(x.xx)(x.xx) - (x.xx)(x.xx) + xx.x}{xx.x + (-x.xx)(-x.xx)}
+\frac{(-xx.x)(xx.x) + (xx.x)(-xx.x)}{-x.xx + x.xx - (-x.xx)(0.xxx)}
+\frac{(xxx0 + xxx0)}{(0.xxx - 0.xxx)} + \frac{(-xxx0 + xxx0)}{(x.xx - x.xx)}
+\frac{(x.xx + x.xx)(-x.xx - x.xx + x.xx)}{(-x.xx)(-x.xx) - xx.x}
+\frac{(-xx.x + xx.x)(-xx.x + xxx)}{(\pi)(0.xxx)(xxx0 - xxx00)}
+\frac{(xxx)(xx.x) - (-xx.x)(-xxx) + xxx00}{{-x.xx \times 10^{6}} + (xxx)(-xxx)}
+\frac{(-x.xx + x.xx)(xx.x + xx.x)}{(-x.xx)(0.xxx)(xxx0 - xxx00)}
+\frac{(-x.xx)(x.xx) - (xx.x)(-0.xxx) + x.xx}{0.xxx + (-x.xx)(-0.0xxx)}
